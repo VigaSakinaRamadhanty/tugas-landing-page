@@ -6,3 +6,12 @@
     Table Heading Color :           #C4CDD6
     Table Alternate Color :         #e5eBed
 */
+
+body {
+    background-color: #26734d;
+    color: #8c8c8c;
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: 15px;
+    margin 0;
+}
